@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-flatpak-manager2"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS flatpak-manager2 component"
+
+[lib]
+name = "flatpak_manager2"
+path = "src/lib.rs"
