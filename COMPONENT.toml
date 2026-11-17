@@ -3,7 +3,7 @@ name = "SigmaOS-flatpak-manager2"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "flatpak-manager2 component"
+description = "Flatpak Manager flatpak manager compatibility layer for SigmaOS"
 upstream = []
 
 [contract]
