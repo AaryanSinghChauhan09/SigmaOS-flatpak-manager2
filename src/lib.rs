@@ -4,6 +4,9 @@
 //! Real implementation: managers, events, validation, deterministic storage.
 //! Replaces the placeholder stub.
 
+/// Flatpak application manager module.
+pub mod sigmaflatpak;
+
 use std::collections::BTreeMap;
 use std::fmt;
 
